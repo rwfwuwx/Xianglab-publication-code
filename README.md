@@ -16,7 +16,7 @@ For each publicated work, we show how ada generate the reported results:
 - ask ada to generate the **ada_report_file**
 
   given the ada_requirement_table, ada asks for required data/info from other 11buddies, and generates the report file.
-  The report file contains the exact reported results including the statistical texts, tables, figures, together with the codes generating them.
+  The report file contains the exact reported results including the statistical texts, tables, figures, along with the codes generating them.
 
   The report file is in the .docx or .mlx formart.
 
