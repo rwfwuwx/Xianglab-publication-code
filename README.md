@@ -11,7 +11,7 @@ For each publicated work, we show how ada generate the reported results:
 
   i.e., tell ada the needs for generating the reported results.
   
-  The table is in the .excl format.
+  The table is in the .xlsx format.
 
 - ask ada to generate the **ada_report_file**
 
