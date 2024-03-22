@@ -4,26 +4,36 @@
 ## What's in here
 The lab's work (http://www.xianglab.com.cn/col.jsp?id=105) is performed on the 11buddy-&-I research platform (https://github.com/rwfwuwx/11buddy-and-I).
 
-From 2024, as 11buddies grow up, we present them here along with the publication, which is critical for resarch apparency and replication. 
+From 2024, as 11buddies grow up, we present them here along with the publication, which is critical for resarch integrety and replication. 
 
 For each publicated work, we show how ada generate the reported results: 
 - fill in the **ada_requirement_table**
 
   i.e., tell ada the needs for generating the reported results.
+  
+  The table is in the .excl format.
 
 - ask ada to generate the **ada_report_file**
 
-  given the ada_requirement_table, ada asks for required data/info from other 11buddies, and generates the report file containing the exact reported results, including statistical texts, tables, figures.
+  given the ada_requirement_table, ada asks for required data/info from other 11buddies, and generates the report file.
+  The report file contains the exact reported results including the statistical texts, tables, figures, together with the codes generating them.
 
-Note that, for the whole end-to-end 11buddy research pipeline of a study, please see the description at https://github.com/rwfwuwx/11buddy-and-I.
+  The report file is in the .docx or .mlx formart.
 
-## publication with 11buddy
+Note: for the whole end-to-end 11buddy research pipeline of a study (Study_TaskList), please see the description at https://github.com/rwfwuwx/11buddy-and-I.
+
+Note: The ada_report_file was in the .docx or .mlx formart, which is not supported for uploading in github. A .pdf version is thus attached instead.
+
+## Publication with 11buddy
 ### work
 Zhou P#, Wu Q#, Zhan L#, Guo Z, Wang C, Wang S, Yang Q, Lin J, Zhang F, Liu L, Lin D, Fu W* Wu X* (2023) Alpha peak activity in resting-state EEG is associated with depressive score. Frontiers in Neuroscience 17: 1057908.
 
 [Zhou et al. - 2023 - Alpha peak activity in resting-state EEG is associ.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/14718774/Zhou.et.al.-.2023.-.Alpha.peak.activity.in.resting-state.EEG.is.associ.pdf)
 
+To generate the reported results,
 - fill in the ada_requirement_table
 
 - ask ada to generate the ada_report_file
-
+  
+  Type 'ada_ganhuola_template_studyID' in matlab command window; wait ada finish funning; then open and read the ada_report_file:
+[ada_report_sds_corr_P_Pre_source_20231204.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/14719037/ada_report_sds_corr_P_Pre_source_20231204.pdf)
