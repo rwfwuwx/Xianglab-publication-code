@@ -32,6 +32,7 @@ Zhou P#, Wu Q#, Zhan L#, Guo Z, Wang C, Wang S, Yang Q, Lin J, Zhang F, Liu L, L
 
 To generate the reported results,
 - fill in the ada_requirement_table
+![image](https://github.com/rwfwuwx/Xianglab-publication-code/assets/60617251/9f82c499-2ca1-4d81-a441-a4692c97f2b7)
 
 - ask ada to generate the ada_report_file
   
