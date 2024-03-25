@@ -25,7 +25,7 @@ Note: for the whole end-to-end 11buddy research pipeline of a study (Study_TaskL
 Note: The ada_report_file was in the .docx or .mlx formart, which is not supported for uploading in github. A .pdf version is thus attached instead.
 
 ## Publication with 11buddy
-### work
+### work 2023_FNS
 Zhou P#, Wu Q#, Zhan L#, Guo Z, Wang C, Wang S, Yang Q, Lin J, Zhang F, Liu L, Lin D, Fu W* Wu X* (2023) Alpha peak activity in resting-state EEG is associated with depressive score. Frontiers in Neuroscience 17: 1057908.
 
 [Zhou et al. - 2023 - Alpha peak activity in resting-state EEG is associ.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/14718774/Zhou.et.al.-.2023.-.Alpha.peak.activity.in.resting-state.EEG.is.associ.pdf)
