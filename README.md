@@ -28,6 +28,8 @@ Note: The most recent 11buddies are presented here, and may look not exactly the
 
 ## Publication with 11buddy
 ### work 2024_VR
+Huang Y#, Zhan L#, Zhong S, Sun M, Wang C, Yang C, Wu X* (2024) Sustaining attention in visuomotor timing is associated with location-based binding. Vision Research. In Press.
+
 (comming)
 
 ### work 2023_FNS
