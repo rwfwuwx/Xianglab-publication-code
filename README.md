@@ -24,7 +24,7 @@ Note: For the whole end-to-end 11buddy research pipeline of a study, i.e., Study
 
 Note: The ada_report_file was in the .docx or .mlx formart, which is not supported for uploading in github. A .pdf version is thus attached instead.
 
-Note: The most recent 11buddies are presented here, and may look not exactly the same as they were months/years before (it's normal, they are growing up).  
+Note: The most recent 11buddies are presented here, and may look not exactly the same as they were originally with pubilication months/years before (it's normal, they are growing up).  
 
 ## Publication with 11buddy
 ### work 2024_VR
