@@ -30,7 +30,7 @@ Note: The most recent 11buddies are presented here, and may look not exactly the
 ### work 2024_VR
 Huang Y#, Zhan L#, Zhong S, Sun M, Wang C, Yang C, Wu X* (2024) Sustaining attention in visuomotor timing is associated with location-based binding. Vision Research. In Press.
 
-(comming)
+(coming)
 
 ### work 2023_FNS
 Zhou P#, Wu Q#, Zhan L#, Guo Z, Wang C, Wang S, Yang Q, Lin J, Zhang F, Liu L, Lin D, Fu W* Wu X* (2023) Alpha peak activity in resting-state EEG is associated with depressive score. Frontiers in Neuroscience 17: 1057908.
