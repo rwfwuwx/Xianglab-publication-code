@@ -18,7 +18,7 @@ For each publicated work, we show how ada generate the reported results:
   given your requirement, ada asks for the necessary data/info from other 11buddies, and generates the report file.
   The report file contains the exact reported results including the statistical texts, tables, figures, along with the codes generating them.
 
-  The report file is in the .docx or .mlx formart.
+  The report file is in the .docx and .mlx formart.
 
 Note: For the end-to-end 11buddy research pipeline of a study from the beginnign data collection ... to the result reporting here, i.e., the Study_TaskList, please see https://github.com/rwfwuwx/11buddy-and-I.
 
