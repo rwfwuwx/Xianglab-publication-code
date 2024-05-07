@@ -7,15 +7,15 @@ The lab's work (http://www.xianglab.com.cn/col.jsp?id=105) is performed on the 1
 From 2024, as 11buddies grow up, we present them here along with the publication, which is critical for resarch integrety and replication. 
 
 For each publicated work, we show how ada generate the reported results: 
-- (optional) fill in the **ada_requirement_table**
+- fill in the **ada_requirement_table**
 
-  i.e., tell ada the needs for generating the reported results.
+  i.e., tell ada your requirements for generating the reported results.
   
   The table is in the .xlsx format.
 
 - ask ada to generate the **ada_report_file**
 
-  given the requirement, ada asks for required data/info from other 11buddies, and generates the report file.
+  given your requirement, ada asks for the necessary data/info from other 11buddies, and generates the report file.
   The report file contains the exact reported results including the statistical texts, tables, figures, along with the codes generating them.
 
   The report file is in the .docx or .mlx formart.
