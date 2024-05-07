@@ -20,7 +20,7 @@ For each publicated work, we show how ada generate the reported results:
 
   The report file is in the .docx or .mlx formart.
 
-Note: For the whole end-to-end 11buddy research pipeline of a study, i.e., Study_TaskList, please see the description at https://github.com/rwfwuwx/11buddy-and-I.
+Note: For the end-to-end 11buddy research pipeline of a study from the beginnign data collection ... to the result reporting here, i.e., the Study_TaskList, please see https://github.com/rwfwuwx/11buddy-and-I.
 
 Note: The ada_report_file was in the .docx or .mlx formart, which is not supported for uploading in github. A .pdf version is thus attached instead.
 
