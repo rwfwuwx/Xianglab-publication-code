@@ -29,7 +29,6 @@ Note: The most latest 11buddies are presented here, and may look not exactly the
 ## Publication with 11buddy
 ### work 2024_VR
 Huang Y#, Zhan L#, Zhong S, Sun M, Wang C, Yang C, Wu X* (2024) Sustaining attention in visuomotor timing is associated with location-based binding. Vision Research 219: 108405.
-
 [Huang et al. - 2024 - Sustaining attention in visuomotor timing is assoc.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/15328828/Huang.et.al.-.2024.-.Sustaining.attention.in.visuomotor.timing.is.assoc.pdf)
 
 To generate the reported results,
@@ -39,12 +38,11 @@ To generate the reported results,
 - ask ada to generate the ada_report_file
   
   Type 'ada_ganhuola_behav_template_studyID' in Matlab command window; wait ada finish running; then open and read the ada_report_file:
-  [ada_report_behav_20231204_Stab_20240515.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/15328905/ada_report_behav_20231204_Stab_20240515.pdf)
+[ada_report_behav_20231204_Stab_20240515.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/15328905/ada_report_behav_20231204_Stab_20240515.pdf)
 
 
 ### work 2023_FNS
 Zhou P#, Wu Q#, Zhan L#, Guo Z, Wang C, Wang S, Yang Q, Lin J, Zhang F, Liu L, Lin D, Fu W* Wu X* (2023) Alpha peak activity in resting-state EEG is associated with depressive score. Frontiers in Neuroscience 17: 1057908.
-
 [Zhou et al. - 2023 - Alpha peak activity in resting-state EEG is associ.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/14718774/Zhou.et.al.-.2023.-.Alpha.peak.activity.in.resting-state.EEG.is.associ.pdf)
 
 To generate the reported results,
@@ -54,4 +52,4 @@ To generate the reported results,
 - ask ada to generate the ada_report_file
   
   Type 'ada_ganhuola_template_studyID' in Matlab command window; wait ada finish running; then open and read the ada_report_file:
-  [ada_report_sds_corr_P_Pre_source_20231204.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/14719037/ada_report_sds_corr_P_Pre_source_20231204.pdf)
+[ada_report_sds_corr_P_Pre_source_20231204.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/14719037/ada_report_sds_corr_P_Pre_source_20231204.pdf)
