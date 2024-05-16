@@ -38,7 +38,7 @@ To generate the reported results,
 
 - ask ada to generate the ada_report_file
   
-  Type 'ada_ganhuola_template_studyID' in Matlab command window; wait ada finish running; then open and read the ada_report_file:
+  Type 'ada_ganhuola_behav_template_studyID' in Matlab command window; wait ada finish running; then open and read the ada_report_file:
   [ada_report_behav_20231204_Stab_20240515.pdf](https://github.com/rwfwuwx/Xianglab-publication-code/files/15328905/ada_report_behav_20231204_Stab_20240515.pdf)
 
 
