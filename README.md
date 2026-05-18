@@ -21,6 +21,12 @@ Note: The ada_report_file was in the .docx or .mlx formart, which is not support
 Note: The most latest 11buddies are presented here, and may look not exactly the same as they were originally with pubilication months/years before (it's normal, they are growing up).  
 
 ## Publication with 11buddy
+### work 2026_X
+Huang Y#, Sui L#,Zhan L, Wang C, Guo Z, Li Y, Wu X* (2026) Insular intracranial activity identifies multiple facial expressions via diverse, intermixed single-contact temporal patterns. Under review.  
+
+### work 2026_X
+Huang Y, Wu X (2026) Variability of the internal timekeeper precisely predicts synchronization timing variability. Under review.   
+
 ### work 2025_VR
 Huang Y#, Wang C#, Wu X* (2025) Could an auditory equivalent to a continuously varying visual stimulus improve beat synchronization? Evidence supporting vision as a trustworthy modality in sensorimotor timing. Vision Research 232: 108616.   
 [1-s2.0-S004269892500077X-main.pdf](https://github.com/user-attachments/files/20277289/1-s2.0-S004269892500077X-main.pdf)   
